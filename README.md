@@ -5,9 +5,9 @@ Main repository of the database **GPCRchimeraDB** ([https://www.bio2byte.be/gpcr
 ## Format the Data
 
 In the folder `Notebooks`, the following Jupyter notebooks are available:
-- [**Format a chimera's data**](): Identify parents, cutting sites, and mutations based on its sequence.
-- [**Generate entry file for chimeric GPCRs**]().
-- [**Generate entry file for natural GPCRs**]().
+- [**Format a chimera's data**](Notebooks/create_chimera.ipynb): Identify parents, cutting sites, and mutations based on its sequence.
+- [**Generate entry file for chimeric GPCRs**](Notebooks/json_GPCRchimeraDB_chimera.ipynb).
+- [**Generate entry file for natural GPCRs**](Notebooks/json_GPCRchimeraDB_natural.ipynb).
 
 ## The Data
 
