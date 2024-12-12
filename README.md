@@ -10,8 +10,8 @@ In the folder `Notebooks`, the following Jupyter notebooks are available:
 - [**Generate entry file for natural GPCRs**](Notebooks/json_GPCRchimeraDB_natural.ipynb).
 
 ## The Data
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10854343.svg)](https://doi.org/10.5281/zenodo.14282679) 
-Available on Zedodo:
+
+Available on Zedodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10854343.svg)](https://doi.org/10.5281/zenodo.14282679) :
 - Entry files (JSON, 1 per entry).
 - FASTA sequences.
 - Structures (PDB, AF2, AF2 MS, ESMFold).
