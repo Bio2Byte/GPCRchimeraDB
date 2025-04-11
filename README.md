@@ -11,15 +11,14 @@ In the folder `Notebooks`, the following Jupyter notebooks are available:
 
 ## The Data
 
-Available on Zedodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10854343.svg)](https://doi.org/10.5281/zenodo.14282679) :
+Available on Zedodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10854343.svg)](https://doi.org/10.5281/zenodo.14989075) :
 - Entry files (JSON, 1 per entry).
 - FASTA sequences.
-- Structures (PDB, AF2, AF2 MS, ESMFold).
+- Structures (PDB, AF2, AF2 MS, ESMFold, dssp, mapping).
 - Master alignment (MSA).
 - Activation state structures (GPCRdb).
 - Classification.
 - G-protein and B-arrestin coupling (GPCRdb).
-- Limits TM regions (TMbed).
 - Endogenous ligands (GPCRdb).
 - Variants (GPCRdb).
 - Scientific to common names organisms (UniProt).
