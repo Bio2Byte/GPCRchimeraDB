@@ -31,14 +31,26 @@ Visit GPCRchimeraDB: [https://www.bio2byte.be/gpcrchimeradb/](https://www.bio2by
 
 ## The Database's Documentation
 
-GitHub repository for GPCRchimeraDB's documentation: [https://github.com/Bio2Byte/gpcrchimeradb-docs](https://github.com/Bio2Byte/gpcrchimeradb-docs).
+Visit GPCRchimeraDB's documentation: [https://gpcrchimeradb-docs.readthedocs.io/en/latest/index.html](https://gpcrchimeradb-docs.readthedocs.io/en/latest/index.html).
 
-## The Paper
+## Citation
+
+```bibtex
+@article{CRAUWELS2025169164,
+title = {GPCRchimeraDB: A database of chimeric G protein-coupled receptors (GPCRs) to assist their design},
+journal = {Journal of Molecular Biology},
+pages = {169164},
+year = {2025},
+issn = {0022-2836},
+doi = {https://doi.org/10.1016/j.jmb.2025.169164},
+author = {Charlotte Crauwels and Adrián Díaz and Wim Vranken},
+}
+```
 
 
 ## Contact Us
 
-[charlotte.crauwels@vub.be](mailto:charlotte.crauwels@vub.be)
+[bio2byte@vub.be](mailto:bio2byte@vub.be)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
